@@ -1,7 +1,7 @@
 {
   "name": "test00",
   "version": "1.0.0",
-  "description": "仓库是实训仓库，用于联系，现在我修改了一下内容12345",
+  "description": "用于练习",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
