@@ -1,7 +1,7 @@
 # test00
 
 #### Description
-仓库是实训仓库，用于联系
+用于练习
 
 #### Software Architecture
 Software architecture description
